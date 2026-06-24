@@ -51,7 +51,7 @@ Work in progress — shelved for now. Planned next steps:
 
 ## Run in Colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/idk_howtocallit.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/idk_howtocallit.ipynb](https://colab.research.google.com/drive/1LUpYNGTmm9_0mkMNeKxf6RnTFjoG3NlG?usp=sharing))
 
 ## License
 
